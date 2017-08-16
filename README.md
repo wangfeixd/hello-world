@@ -2,4 +2,4 @@
 just the first project
 
 
-hello, i like playiny football.
+hello, i like playing football.
